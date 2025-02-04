@@ -25,11 +25,11 @@ Due to privacy concerns, Danny has provided only sample data, but it should be s
 For Week 1, I followed a structured approach to solve the problem:
 
 1. Schema Creation: I created a schema that defined the structure of the database, including the tables for sales, menu, and members, and their relationships.
-   - File: 
+   - File: Week 1 Schema.sql
 2. Exploratory Data Analysis (EDA): I tried to understand the data by checking for any null values and identifying data discrepancies to ensure the dataset was clean and ready for analysis.
-   - File:
+   - File: Week 1 EDA.SQL
 3. Solution Files: I wrote SQL queries to answer questions related to customer spending behavior.
-    - File:
+    - File: Week 1 Solution.sql
 
 ## What I Learned This Week
 1. Aggregate Functions: SUM(), COUNT()
